@@ -1,1 +1,1 @@
-# day-1-assignment
+# react-training-assignment
