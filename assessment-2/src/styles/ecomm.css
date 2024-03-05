@@ -14,14 +14,12 @@
     margin-bottom: 20px;
     border: 1px solid #ccc;
     padding: 20px;
-    margin-right: 5px;
-    margin-left: 5px;
+    background-color:thistle;
 }
 
 .product img {
-    border-radius: 8px;
-    width: 100%;
-    height: 70%;
+    width: 100px;
+    height: 100px;
     margin-bottom: 10px;
 }
 

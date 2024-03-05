@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "image": "../assets/phone.webp",
+        "image": "./assets/phone.webp",
         "name": "Phone",
         "description": "IPhone 14 Plus",
         "price" : "$60"
     },
     {
         "id": 2,
-        "image": "../assets/watch.jpeg",
+        "image": "./assets/watch.jpeg",
         "name": "Watch",
         "description": "Apple Watch Series 5",
         "price" : "$40"
     },
     {
         "id": 3,
-        "image": "../assets/shoes.jpg",
+        "image": "./assets/shoes.jpg",
         "name": "Shoes",
         "description": "Nike Running Shoes",
         "price" : "$50"
     },
     {
         "id": 4,
-        "image": "wallet.jpg",
+        "image": "../assets/wallet.jpg",
         "name": "Wallet",
         "description": "Allen Solly Wallet",
         "price" : "$30"
     },
     {
         "id": 5,
-        "image": "shades.jpg",
+        "image": "./assets/shades.jpg",
         "name": "Shades",
         "description": "Ray Ban Shades",
         "price" : "$90"
     },
     {
         "id": 6,
-        "image": "book.jpg",
+        "image": "./assets/book.jpg",
         "name": "Book",
         "description": "Anne Frank Autobiography",
         "price" : "$20"
